@@ -42,7 +42,7 @@ data/        Local data directory, not tracked by Git
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ariel123/data-science-cyber-unsw-nb15-ids.git
+git clone https://github.com/ArielYuki123/data-science-cyber-unsw-nb15-ids.git
 cd data-science-cyber-unsw-nb15-ids
 ```
 
@@ -95,7 +95,7 @@ The dataset files are not included in this GitHub repository because of their si
 Open the main notebook:
 
 ```text
-notebooks/final_project_unsw_nb15_ids.ipynb
+notebooks/unsw_nb15_ids_project.ipynb
 ```
 
 Run the notebook cells from top to bottom.
@@ -124,10 +124,10 @@ PROJECT_ROOT/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── final_project_unsw_nb15_ids.ipynb
+│   └── unsw_nb15_ids_project.ipynb
 │
 ├── reports/
-│   └── final_report.pdf
+│   └── report.pdf
 │
 ├── figures/
 │
